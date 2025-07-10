@@ -45,6 +45,8 @@ The goal of this task is to learn how to identify, review, and remove potentiall
 - Extensions asking for access to all websites or browsing data should be treated with caution.
 - Researching past malicious extensions helps build awareness of red flags.
 
----
+## Author
+
+Submitted as part of Cyber Security Internship Task 7
 
 
