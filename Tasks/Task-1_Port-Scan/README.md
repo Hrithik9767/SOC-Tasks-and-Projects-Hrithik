@@ -20,6 +20,10 @@ Found using `ipconfig`:
 
 ---
 
-## 🔎 Nmap TCP SYN Scan:
+##  Nmap TCP SYN Scan:
 Command used:
 nmap -sS 10.10.1.0/24
+
+## Author
+
+Submitted as part of Cyber Security Internship Task 1
