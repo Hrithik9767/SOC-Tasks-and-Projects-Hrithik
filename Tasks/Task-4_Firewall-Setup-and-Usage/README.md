@@ -41,4 +41,8 @@ Allows secure SSH access, necessary for remote administration.
 sudo ufw delete deny 23
 Restored the firewall to its original state by removing the test block rule.
 
+---
 
+## Author
+
+Submitted as part of Cyber Security Internship Task 4
