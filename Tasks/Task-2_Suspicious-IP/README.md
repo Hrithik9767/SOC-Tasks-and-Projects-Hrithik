@@ -23,4 +23,4 @@ To analyze a phishing email for signs like:
 
 ## Author
 
-Submitted as part of Cyber Security Internship Task 2
+Submitted as part of Cyber Security Internship Task 2 
