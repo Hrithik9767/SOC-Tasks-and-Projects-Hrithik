@@ -56,3 +56,7 @@ All screenshots are available in the `screenshots/` folder:
 4. Encrypted HTTPS traffic – `4_https_check.png`
 5. VPN disconnected – `5_disconnected.png`
 
+
+## Author
+
+Submitted as part of Cyber Security Internship Task 8
