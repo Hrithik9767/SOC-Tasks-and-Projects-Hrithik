@@ -1,0 +1,16 @@
+From: "Apple Support" <support@apple.fake.com>
+Subject: Urgent: Your Apple ID has been locked
+Date: Sat, 22 June 2025 10:35:00 +0530
+
+Dear Customer,
+
+We have detected suspicious activity in your Apple ID account. For your protection, we have temporarily locked your account.
+
+To restore access, please click the link below and verify your identity:
+
+https://apple.verify-user.com/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Thank you,
+Apple Security Team
