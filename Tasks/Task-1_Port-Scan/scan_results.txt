@@ -1,0 +1,33 @@
+Scan Results Summary:
+
+Host: 10.10.1.1
+Open Ports:
+135/tcp → msrpc
+139/tcp → netbios-ssn
+445/tcp → microsoft-ds
+
+Host: 10.10.1.2
+Open Port:
+53/tcp → domain (DNS)
+
+Host: 10.10.1.254
+All ports filtered (no response)
+
+Host: 10.10.1.3
+All ports closed
+
+Potential Risks:
+
+| Port | Service      | Risk Description                                   |
+| ---- | ------------ | -------------------------------------------------- |
+| 135  | msrpc        | DCOM service can be exploited if unpatched         |
+| 139  | netbios-ssn  | NetBIOS can leak system info; SMB attacks possible |
+| 445  | microsoft-ds | Often targeted by ransomware (e.g., WannaCry)      |
+| 53   | domain (DNS) | DNS amplification or poisoning if not secured      |
+
+Recommendations:
+
+Close unused ports (especially 135, 139, 445 if not needed)
+Apply latest security patches
+Use a firewall to block unnecessary services
+Limit exposure to internal networks only
