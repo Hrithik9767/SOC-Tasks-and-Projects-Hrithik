@@ -54,5 +54,8 @@ To evaluate the strength of various types of passwords using an online password 
 - Short or simple passwords
 - Reusing passwords on multiple accounts
 
+## Author
+
+Submitted as part of Cyber Security Internship Task 6
 
 
