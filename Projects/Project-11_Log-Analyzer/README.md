@@ -53,3 +53,15 @@ Project-11_Log-Analyzer/
 
 ---
 
+## ✅ Status
+
+Packet capture working
+
+Alert logic working
+
+Database logging
+
+Project completed and documented
+
+👤 Author Hrithik – Cybersecurity Intern @ Elevate Labs GitHub: Hrithik9767
+
