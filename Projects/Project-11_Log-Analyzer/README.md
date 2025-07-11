@@ -53,10 +53,3 @@ Project-11_Log-Analyzer/
 
 ---
 
-## ✅ Status
-
-- [x] Log file created and analyzed
-- [x] Script generates alert levels + timestamps
-- [x] Report saved to file
-- [x] Ready for GitHub upload
-
